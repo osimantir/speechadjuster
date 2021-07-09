@@ -17,3 +17,16 @@ Contributors
 
 Olympia Simantiraki (olina.simantiraki@gmail.com)<br/> 
 Martin Cooke (m.cooke@ikerbasque.org)
+
+
+Citing
+
+If you use this tool, please cite the following publication: 
+
+@inproceedings{Simantiraki21,
+  author="Simantiraki, O. and Cooke, M.",
+  title="{SpeechAdjuster: A tool for investigating listener preferences and speech intelligibility}",
+  year="2021",
+  booktitle="Proc. Interspeech", 
+  note="in press"
+  }
