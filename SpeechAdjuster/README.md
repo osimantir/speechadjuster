@@ -23,10 +23,12 @@ Citing
 
 If you use this tool, please cite the following publication: 
 
-@inproceedings{Simantiraki21,
-  author="Simantiraki, O. and Cooke, M.",
-  title="{SpeechAdjuster: A tool for investigating listener preferences and speech intelligibility}",
-  year="2021",
-  booktitle="Proc. Interspeech", 
-  note="in press"
+Simantiraki, O., Cooke, M. (2021) SpeechAdjuster: A tool for investigating listener preferences and speech intelligibility. Proc. Interspeech 2021, in press.
+
+@inproceedings{Simantiraki21,<br/> 
+  author="Simantiraki, O. and Cooke, M.",<br/> 
+  title="{SpeechAdjuster: A tool for investigating listener preferences and speech intelligibility}",<br/> 
+  year="2021",<br/> 
+  booktitle="Proc. Interspeech", <br/> 
+  note="in press"<br/> 
   }
