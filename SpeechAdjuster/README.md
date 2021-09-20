@@ -23,12 +23,13 @@ Citing
 
 If you use this tool, please cite the following publication: 
 
-Simantiraki, O., Cooke, M. (2021) SpeechAdjuster: A tool for investigating listener preferences and speech intelligibility. Proc. Interspeech 2021, in press.
+Simantiraki, O., Cooke, M. (2021) SpeechAdjuster: A Tool for Investigating Listener Preferences and Speech Intelligibility. Proc. Interspeech 2021, 1718-1722, doi: 10.21437/Interspeech.2021-324
 
-@inproceedings{Simantiraki21,<br/> 
-  author="Simantiraki, O. and Cooke, M.",<br/> 
-  title="{SpeechAdjuster: A tool for investigating listener preferences and speech intelligibility}",<br/> 
-  year="2021",<br/> 
-  booktitle="Proc. Interspeech", <br/> 
-  note="in press"<br/> 
+@inproceedings{simantiraki21_interspeech,<br/> 
+  author={Olympia Simantiraki and Martin Cooke},<br/> 
+  title={{SpeechAdjuster: A Tool for Investigating Listener Preferences and Speech Intelligibility}},<br/> 
+  year=2021,<br/> 
+  booktitle={Proc. Interspeech 2021}, <br/> 
+  pages={1718--1722},<br/> 
+  doi={10.21437/Interspeech.2021-324}<br/> 
   }
